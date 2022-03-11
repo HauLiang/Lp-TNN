@@ -5,7 +5,7 @@
 %
 % -- A Robust Low-Rank Matrix Completion Based on Truncated Nuclear Norm and Lp-norm
 %
-% This code is based on the VNCMD code available from :
+% This code is based on the FGSR code available from:
 %    https://github.com/ImKeTT/Low-rank_Matrix-completion/blob/master/FGSR-for-effecient-low-rank-matrix-recovery/test_MC_movielens1M.m 
 %
 % from the following paper:
