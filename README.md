@@ -2,7 +2,7 @@
 MATLAB code for "A Robust Low-Rank Matrix Completion Based on Truncated Nuclear Norm and Lp-norm".
 
 If you use the code, please cite our paper:
-> [[1] Liang, Hao and Li, Kang and Huang, Jianjun. "A robust low-rank matrix completion based on truncated nuclear norm and Lp-norm", *The Journal of Supercomputing*, 2022](https://doi.org/10.1007/s11227-022-04385-8 "https://doi.org/10.1007/s11227-022-04385-8")
+> [[1] Liang, Hao and Li, Kang and Huang, Jianjun. "A robust low-rank matrix completion based on truncated nuclear norm and Lp-norm", *The Journal of Supercomputing*, 2022.](https://doi.org/10.1007/s11227-022-04385-8 "https://doi.org/10.1007/s11227-022-04385-8")
 
 
 ## Preview
